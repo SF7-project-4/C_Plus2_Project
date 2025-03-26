@@ -13,6 +13,8 @@
 - IDE: Visual studio 2022
 - SW/HW 제작: 아두이노, 과학상자 6호
 
+  
+
 ## 👥 팀 구성 및 역할 분담
 | 이름 | 역할 | 주요 업무 | GitHub 프로필 |
 |------|------|----------|------------|
@@ -50,11 +52,16 @@
 ### 4.2 플로우 차트
 
 - 작동 기능 종류
-  ![Image](https://github.com/user-attachments/assets/bf387c25-69ae-48fa-99b2-3f489e991eff)
-
-
-- 예상 GUI
+  ![Image](https://github.com/user-attachments/assets/3c8df252-c954-4844-8dfd-3db2889784ba)
   
+- 예상 GUI
+  ![Image](https://github.com/user-attachments/assets/d731cc2c-6f0c-410e-9959-34a6e5af4fa2)
+  
+- 구현 GUI
+  ![Image](https://github.com/user-attachments/assets/3be6cc8c-9093-4beb-8ff1-29a1153e9c8c)
+
+- 시스템 구성 
+  ![Image](https://github.com/user-attachments/assets/268e4ad3-9c45-4f36-b59c-b2adfca4ac93)
 
 ---
 
