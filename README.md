@@ -35,7 +35,7 @@
 
 ![Image](https://github.com/user-attachments/assets/ae18a861-51e8-4e36-886b-4385b18c8f1a)
 
-### 4.1 핵심 기능 리스트
+### 핵심 기능 리스트
 
 | 기능 이름 | 설명 | 우선순위 | 담당자 |
 | --- | --- | --- | --- |
@@ -49,8 +49,7 @@
 | 정지 | 모든 기능 즉시 정지 | Low | 유승태, 한용찬 |
 | AI 기능 구현 | 객체 인식하여 인식된 객체에 따른 자동 운행 | high | 유승태, 한용찬 |
 
-### 4.2 플로우 차트
-
+##  플로우 차트
 - 작동 기능 종류
   ![Image](https://github.com/user-attachments/assets/3c8df252-c954-4844-8dfd-3db2889784ba)
   
@@ -65,7 +64,7 @@
 
 ---
 
-## 5. 참고 자료 및 링크
+##  참고 자료 및 링크
 
 깃허브 주소: https://github.com/SF7-project-4/C_Plus2_Project
 
