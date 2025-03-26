@@ -29,7 +29,40 @@
 | 오류 수정 | 2025-03-25 ~ 2025-03-26 | 오류 수정 및 정리 |
 | 시연 | 2025-03-27 | 프로젝트 시연 |
   
+## 개발 프로세스
 
+![Image](https://github.com/user-attachments/assets/ae18a861-51e8-4e36-886b-4385b18c8f1a)
+
+### 4.1 핵심 기능 리스트
+
+| 기능 이름 | 설명 | 우선순위 | 담당자 |
+| --- | --- | --- | --- |
+| MFC 화면 출력 | MFC 기반 GUI 출력 | medium | 유승태, 한용찬 |
+| X축 이동 | 로봇 팔을 위, 아래로 이동 | High | 유승태, 한용찬 |
+| Y축 이동 | 로봇 팔을 좌우로 회전 | High | 유승태, 한용찬 |
+| 집게 조작 | 조작을 통한 물건 잡기 및 놓기 | High | 유승태, 한용찬 |
+| 웹캠 연결 | 작업 현장 확인 및 이미지 입력 | medium | 유승태, 한용찬 |
+| 복귀  | 디폴트 값 위치로 이동 | Low | 유승태, 한용찬 |
+| 반자동  | 기능 반자동 실행 | Low | 유승태, 한용찬 |
+| 정지 | 모든 기능 즉시 정지 | Low | 유승태, 한용찬 |
+| AI 기능 구현 | 객체 인식하여 인식된 객체에 따른 자동 운행 | high | 유승태, 한용찬 |
+
+### 4.2 플로우 차트
+
+- 작동 기능 종류
+  ![Image](https://github.com/user-attachments/assets/bf387c25-69ae-48fa-99b2-3f489e991eff)
+
+
+- 예상 GUI
+  
+
+---
+
+## 5. 참고 자료 및 링크
+
+깃허브 주소: https://github.com/SF7-project-4/C_Plus2_Project
+
+과학상자: https://sciencebox.co.kr/bbs/board.php?bo_table=manual&wr_id=7&device=pc
 
 
 
