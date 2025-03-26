@@ -72,11 +72,11 @@
 
 
 ## 7. 시연 영상
-- 물병 인식
+- "bottle" 인식
   
   ![Image](https://github.com/user-attachments/assets/e79c24b6-a208-40dc-a8c6-91dec8320a4d)
 
-- 핸드폰 인식
+- "Cell phone" 인식
   
   ![Image](https://github.com/user-attachments/assets/c62019f7-42bb-4b3c-8749-42a473dd52e0)
 
