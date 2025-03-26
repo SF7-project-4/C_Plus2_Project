@@ -35,7 +35,7 @@
 
 - 개발 순서
   
-  ![Image](https://github.com/user-attachments/assets/61a738f4-c4d8-4dc1-8f21-c33b42098ec3)
+  ![Image](https://github.com/user-attachments/assets/52551129-a361-4d33-9fbf-28e8d312edff)
      
   
 - 플로우 차트
