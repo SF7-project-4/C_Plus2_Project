@@ -1,7 +1,7 @@
 # C++_Project
 
 ### 웹캠 연결 순서
-1. openCV 설치
+1. openCV 설치 /n
 
 2. 프로젝트 속성페이지
 ![Image](https://github.com/user-attachments/assets/0ca8071a-11d6-475f-af3d-432eb71c8eb4)
