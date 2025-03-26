@@ -32,8 +32,9 @@
 | 시연 | 2025-03-27 | 프로젝트 시연 |
   
 ## 5. 개발 프로세스
+
 - 개발 순서
-  ![Image](https://github.com/user-attachments/assets/ae18a861-51e8-4e36-886b-4385b18c8f1a)
+    ![Image](https://github.com/user-attachments/assets/ae18a861-51e8-4e36-886b-4385b18c8f1a)
   
 - 플로우 차트
   ![Image](https://github.com/user-attachments/assets/3c8df252-c954-4844-8dfd-3db2889784ba)
