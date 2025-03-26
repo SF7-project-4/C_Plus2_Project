@@ -32,7 +32,7 @@
 | 시연 | 2025-03-27 | 프로젝트 시연 |
   
 ## 5. 개발 프로세스
-
+- 개발 순서
 ![Image](https://github.com/user-attachments/assets/ae18a861-51e8-4e36-886b-4385b18c8f1a)
 
 - 핵심 기능 리스트
@@ -46,6 +46,7 @@
 | 정지 | 모든 기능 즉시 정지 | Low | 유승태, 한용찬 |
 | AI 기능 구현 | 객체 인식하여 인식된 객체에 따른 자동 운행 | high | 유승태, 한용찬 |
 
+## 6. GUI
 - 플로우 차트
   ![Image](https://github.com/user-attachments/assets/3c8df252-c954-4844-8dfd-3db2889784ba)
   
@@ -58,10 +59,10 @@
 - 시스템 구성 
   ![Image](https://github.com/user-attachments/assets/268e4ad3-9c45-4f36-b59c-b2adfca4ac93)
 
-## 6. 시연 영상
+## 7. 시연 영상
 
 
-##  7. 참고 자료 및 링크
+## 8. 참고 자료 및 링크
 
 깃허브 주소: https://github.com/SF7-project-4/C_Plus2_Project
 
