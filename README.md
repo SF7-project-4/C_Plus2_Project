@@ -17,7 +17,7 @@
 
 ## 3. 팀 구성 및 역할 분담
 | 이름 | 역할 | 주요 업무 | GitHub 프로필 |
-|------|------|----------|------------|
+|------|------|--------------|-----------|
 | **유승태** | 팀장 | 계획서 작성, 하드웨어 제작, 소프트웨어 제작 | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Yoo-Seung-Tae) |
 | **한용찬** | 팀원 | 계획서 작성, 하드웨어 제작, 소프트웨어 제작 | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/gksdydcks) |
 
