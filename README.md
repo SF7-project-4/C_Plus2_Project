@@ -6,6 +6,7 @@
 2. 프로젝트 속성페이지
 
   ![Image](https://github.com/user-attachments/assets/0ca8071a-11d6-475f-af3d-432eb71c8eb4)
+
 3. C/C++ 에서 추가 포함 디렉터리에 opencv\build\include 폴더 주소 입력
   ![Image](https://github.com/user-attachments/assets/72b6893a-4e97-40c4-bb00-ed927a13ace7)
 4. 링커 > 추가 라이브러리 디렉터리에서 opencv\build\x64\vc16\lib 폴더 주소 입력
