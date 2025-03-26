@@ -62,11 +62,13 @@
 ## 6. GUI
 - 구상 GUI
   
-  ![Image](https://github.com/user-attachments/assets/d731cc2c-6f0c-410e-9959-34a6e5af4fa2)
+  ![Image](https://github.com/user-attachments/assets/17728853-ea37-4888-8e3d-9abeb60ea514)
+
   
 - 구현 GUI
   
-  ![Image](https://github.com/user-attachments/assets/3be6cc8c-9093-4beb-8ff1-29a1153e9c8c)
+  ![Image](https://github.com/user-attachments/assets/1efa7de3-a41b-489c-8080-1f71607fd9df)
+
 
 
 ## 7. 시연 영상
