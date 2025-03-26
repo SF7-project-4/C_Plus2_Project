@@ -1,10 +1,14 @@
 # 🦾C++기반 아두이노를 활용한 객체 인식 및 물건 자동 분류 로봇팔
 
-## 프로젝트 목표## 📌 프로젝트 개요 및 주제 선정 배경
+## 📌 프로젝트 개요 및 주제 선정 배경
 - 프로젝트 목표
+  - 아두이노 로봇을 과학상자로 제작하고, C++ 기반 MFC GUI로 연동 및 통제하는 프로그램 구현
+  - YOLO 기반으로 객체를 인식하고, 인식한 물체에 따라 자동으로 기능을 수행하는 프로그램 구현
 - 주제 선정 이유
+  - 로봇 팔은 스마트팩토리 구성에 기본적인 요소로 실제 구현을 통하여 실무 능력을 향상시킨다.
+  - 기본 기능에 AI를 추가 도입하여 실제 현장에서 사용 가능한 수준의 로봇을 구현해 본다.
+  - 
 ## 주요 기술 스택
-
 - 프로그램 언어:  C++
 - IDE: Visual studio 2022
 - SW/HW 제작: 아두이노, 과학상자 6호
@@ -12,8 +16,8 @@
 ## 👥 팀 구성 및 역할 분담
 | 이름 | 역할 | 주요 업무 | GitHub 프로필 |
 |------|------|----------|------------|
-| **유승태** | 팀장 | PM, 모델 학습 및 구축, 성능평가 지표 구현, 발표 | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Yoo-Seung-Tae) |
-| **한용찬** | 모델 및 서비스 시스템 구축 | 데이터 입/출력 구현, 모델 학습 및 구축, openAI 구현 | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/gksdydcks) |
+| **유승태** | 팀장 | 계획서 작성, 하드웨어 제작, 소프트웨어 제작 | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Yoo-Seung-Tae) |
+| **한용찬** | 팀원 | 계획서 작성, 하드웨어 제작, 소프트웨어 제작 | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/gksdydcks) |
 
 ## 📚 개발 일정
 | 마일스톤 | 목표 날짜 | 설명 |
