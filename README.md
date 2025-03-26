@@ -62,7 +62,7 @@
 ## 6. GUI
 - 구상 GUI
   
-  ![Image](https://github.com/user-attachments/assets/17728853-ea37-4888-8e3d-9abeb60ea514)
+  ![Image](https://github.com/user-attachments/assets/871e3e7f-1a7c-425c-bac6-0b39f50b0f23)
 
   
 - 구현 GUI
