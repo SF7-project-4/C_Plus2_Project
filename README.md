@@ -34,13 +34,13 @@
 ## 5. 개발 프로세스
 
 - 개발 순서
-    ![Image](https://github.com/user-attachments/assets/ae18a861-51e8-4e36-886b-4385b18c8f1a)
+  - ![Image](https://github.com/user-attachments/assets/ae18a861-51e8-4e36-886b-4385b18c8f1a)
   
 - 플로우 차트
-  ![Image](https://github.com/user-attachments/assets/3c8df252-c954-4844-8dfd-3db2889784ba)
+  - ![Image](https://github.com/user-attachments/assets/3c8df252-c954-4844-8dfd-3db2889784ba)
   
 - 시스템 구성 
-  ![Image](https://github.com/user-attachments/assets/268e4ad3-9c45-4f36-b59c-b2adfca4ac93) 
+  - ![Image](https://github.com/user-attachments/assets/268e4ad3-9c45-4f36-b59c-b2adfca4ac93) 
 
 - 핵심 기능 리스트
 
