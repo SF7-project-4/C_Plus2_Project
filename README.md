@@ -55,7 +55,7 @@
   
 - 시스템 구성
   
-   ![Image](https://github.com/user-attachments/assets/268e4ad3-9c45-4f36-b59c-b2adfca4ac93) 
+   ![Image](https://github.com/user-attachments/assets/78889616-6ee7-4c72-9366-1b5864110798)
 
 
 
